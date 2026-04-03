@@ -57,8 +57,17 @@ nav a {
 }
 
 #sobre h3 {
-    font-size: 26px;
+    font-size: 46px;
     margin-bottom: 30px;
+}
+
+#sobre p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+#sobre li {
+    font-size: 20px;
 }
 
 table {
