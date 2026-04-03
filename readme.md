@@ -100,10 +100,10 @@ O projeto inclui os seguintes recursos obrigatórios:
 # 🔗 Links do Projeto
 
 📁 **Repositório GitHub:**
-[https://orioncavalcante.github.io/cp01_front/](https://orioncavalcante.github.io/cp01_front/ "https://orioncavalcante.github.io/cp01_front/")
+[https://github.com/orioncavalcante/cp01_front](https://github.com/orioncavalcante/cp01_front)
 
 🌍 **Site publicado no GitHub Pages:**
-(Adicionar link do GitHub Pages)
+[https://orioncavalcante.github.io/cp01_front/](https://orioncavalcante.github.io/cp01_front/)
 
 ---
 
