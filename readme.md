@@ -92,17 +92,15 @@ O projeto inclui os seguintes recursos obrigatórios:
 # 👥 Integrantes do Grupo
 
 * Felipe Ribas
-* Nome do Integrante
-* Nome do Integrante
-* Nome do Integrante
-* Nome do Integrante
+* Orion Cavalcante França
+* Luiz Gonzaga
 
 ---
 
 # 🔗 Links do Projeto
 
 📁 **Repositório GitHub:**
-[https://github.com/orioncavalcante/cp01_front](https://github.com/orioncavalcante/cp01_front)
+[https://orioncavalcante.github.io/cp01_front/](https://orioncavalcante.github.io/cp01_front/ "https://orioncavalcante.github.io/cp01_front/")
 
 🌍 **Site publicado no GitHub Pages:**
 (Adicionar link do GitHub Pages)
@@ -123,19 +121,19 @@ Este projeto tem como objetivo praticar conceitos fundamentais de **desenvolvime
 
 # ✅ Checklist do Projeto
 
-* [x] 5 páginas HTML criadas
-* [x] Navegação funcional entre páginas
-* [x] Uso de headings e parágrafos
-* [x] Lista HTML utilizada
-* [x] Tabela HTML criada
-* [x] Formulário de contato implementado
-* [x] Tags semânticas aplicadas
-* [x] Meta tags para SEO
-* [x] Estilização com CSS
-* [x] Imagens em todas as páginas
-* [x] Vídeo incorporado
-* [x] Links internos e externos funcionando
-* [x] Projeto publicado no GitHub Pages
+* [X] 5 páginas HTML criadas
+* [X] Navegação funcional entre páginas
+* [X] Uso de headings e parágrafos
+* [X] Lista HTML utilizada
+* [X] Tabela HTML criada
+* [X] Formulário de contato implementado
+* [X] Tags semânticas aplicadas
+* [X] Meta tags para SEO
+* [X] Estilização com CSS
+* [X] Imagens em todas as páginas
+* [X] Vídeo incorporado
+* [X] Links internos e externos funcionando
+* [X] Projeto publicado no GitHub Pages
 
 ---
 
