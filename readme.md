@@ -17,24 +17,42 @@ Com os desafios trazidos pela pandemia e a mudança no comportamento dos consumi
 # 🗂 Estrutura do Projeto
 
 O projeto segue a seguinte organização de arquivos:
-
-```
 vinharia-agnello/
 │
 ├── index.html
 ├── README.md
 ├── src/
-│   ├── assets/
-│   │   └── imgs/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   └── pages/
-│       ├── historia.html
-│       ├── produtos.html
-│       ├── galeria.html
-│       └── contato.html
-```
+│   ├── assets/
+│   │   └── imgs/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── efeitos.css  ← (Adicionado no Check-Point 02)
+│   ├── js/
+│   └── pages/
+│       ├── historia.html
+│       ├── produtos.html
+│       ├── galeria.html
+│       └── contato.html
+
+
+---
+
+# ✨ Efeitos Visuais (Novidade do Check-Point 02)
+
+Para aprimorar a experiência do usuário e atender aos requisitos da nova etapa do projeto, foram implementados diversos recursos visuais no arquivo `efeitos.css`:
+
+*   **Pseudo-classes:** 
+    *   `:hover`: Efeitos dinâmicos de cor, sombra e movimento ao passar o mouse sobre links, botão do banner e imagens da galeria.
+    *   `:focus`: Feedback visual com borda dourada e sombra nos campos de entrada do formulário.
+    *   `:active`: Mudança de cor nos links de navegação durante o clique.
+*   **Pseudo-elementos:**
+    *   `::first-letter`: Destaque dourado para a primeira letra do título principal no cabeçalho.
+    *   `::first-line`: Destaque na cor da fonte para a primeira linha de texto na seção do banner.
+*   **Animações:**
+    *   `@keyframes crescer`: Animação contínua e suave (`alternate`) atrelada ao `:hover` do botão de envio do formulário, alterando ciclicamente sua largura.
+*   **Transições e Transformações (Extras):** 
+    *   `transition`: Suavização nas mudanças de estado (cores e dimensões).
+    *   `transform`: Uso de `scale()` para micro-interações na galeria e `translateY()` para flutuação de botões e imagens.
 
 ---
 
@@ -84,8 +102,8 @@ O projeto inclui os seguintes recursos obrigatórios:
 * **Estilização com CSS utilizando classes e IDs**
 * **Meta tags para SEO**
 
-  * keywords
-  * description
+  * keywords
+  * description
 
 ---
 
@@ -99,11 +117,9 @@ O projeto inclui os seguintes recursos obrigatórios:
 
 # 🔗 Links do Projeto
 
-📁 **Repositório GitHub:**
-[https://github.com/orioncavalcante/cp01_front](https://github.com/orioncavalcante/cp01_front)
+📁 **Repositório GitHub:**: https://github.com/orioncavalcante/cp01_front
 
-🌍 **Site publicado no GitHub Pages:**
-[https://orioncavalcante.github.io/cp01_front/](https://orioncavalcante.github.io/cp01_front/)
+🌍 **Site publicado no GitHub Pages:**: https://orioncavalcante.github.io/cp01_front/
 
 ---
 
@@ -121,6 +137,7 @@ Este projeto tem como objetivo praticar conceitos fundamentais de **desenvolvime
 
 # ✅ Checklist do Projeto
 
+**Check-Point 01:**
 * [X] 5 páginas HTML criadas
 * [X] Navegação funcional entre páginas
 * [X] Uso de headings e parágrafos
@@ -134,6 +151,15 @@ Este projeto tem como objetivo praticar conceitos fundamentais de **desenvolvime
 * [X] Vídeo incorporado
 * [X] Links internos e externos funcionando
 * [X] Projeto publicado no GitHub Pages
+
+**Check-Point 02 (Atual):**
+* [x] Adição de pelo menos 3 pseudo-classes
+* [x] Uso de pelo menos 2 pseudo-elementos
+* [x] Animação com `@keyframes`
+* [x] 2 transformações (`scale`, `rotate`, etc.)
+* [x] Transições aplicadas em elementos interativos
+* [x] `efeitos.css` criado e importado
+* [x] `README.md` atualizado com seção de efeitos
 
 ---
 
