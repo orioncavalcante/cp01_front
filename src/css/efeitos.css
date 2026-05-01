@@ -1,0 +1,15 @@
+a:active {
+    color: #d4af37;
+}
+
+a:hover {
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+form input:focus {
+    background-color: #dddd;
+}
+
+textarea:focus {
+    background-color: #dddd;
+}
