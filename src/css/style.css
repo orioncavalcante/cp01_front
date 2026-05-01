@@ -20,6 +20,10 @@ header h1 {
     margin-bottom: 0px;
 }
 
+header h1::first-letter{
+    color: #d4af37;
+}
+
 header p {
     color: #d4af37;
     margin-top: 0px;
@@ -45,6 +49,10 @@ nav a {
 
 #banner h2 {
     font-size: 32px;
+}
+
+#banner::first-line{
+    color: #e8cc6f;
 }
 
 #banner p {
