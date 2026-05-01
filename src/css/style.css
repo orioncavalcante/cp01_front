@@ -1,3 +1,9 @@
+@import "./efeitos.css";
+
+
+
+
+
 body {
     margin: 0;
     padding: 0;
@@ -5,26 +11,29 @@ body {
 }
 
 header {
-    padding: 20px;
+    padding: 0px 0px 10px 0px;
     border-bottom: 2px solid #d4af37;
 }
 
 header h1 {
     font-size: 30px;
+    margin-bottom: 0px;
 }
 
 header p {
     color: #d4af37;
+    margin-top: 0px;
 }
 
 nav {
-    margin: 15px 0;
+    padding: 10px;
+    font-weight: bold;
 }
 
 nav a {
     color: black;
     text-decoration: none;
-    margin: 0 8px;
+    padding: 5px;
 }
 
 /* Banner */
