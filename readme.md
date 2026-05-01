@@ -17,23 +17,24 @@ Com os desafios trazidos pela pandemia e a mudança no comportamento dos consumi
 # 🗂 Estrutura do Projeto
 
 O projeto segue a seguinte organização de arquivos:
+```text
 vinharia-agnello/
 │
 ├── index.html
 ├── README.md
 ├── src/
-│   ├── assets/
-│   │   └── imgs/
-│   ├── css/
-│   │   ├── style.css
-│   │   └── efeitos.css  ← (Adicionado no Check-Point 02)
-│   ├── js/
-│   └── pages/
-│       ├── historia.html
-│       ├── produtos.html
-│       ├── galeria.html
-│       └── contato.html
-
+│   ├── assets/
+│   │   └── imgs/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── efeitos.css  ← (Adicionado no Check-Point 02)
+│   ├── js/
+│   └── pages/
+│       ├── historia.html
+│       ├── produtos.html
+│       ├── galeria.html
+│       └── contato.html
+```
 
 ---
 
